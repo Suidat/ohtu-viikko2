@@ -1,3 +1,5 @@
+
+
 apply plugin: 'java'
 apply plugin: 'application'
 
@@ -14,7 +16,6 @@ dependencies {
     compile group: 'org.apache.httpcomponents', name: 'fluent-hc', version: '4.5.3'
 
 }
-
 jar {
     manifest {
         attributes 'Main-Class': 'ohtu.Main'

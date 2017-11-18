@@ -1,108 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22b9c841-f360-4037-bc5d-bbfb147fb56e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/RunCukesTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/Stepdefs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/data_access/InMemoryUserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/data_access/UserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/domain/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/io/ConsoleIO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/io/IO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/io/StubIO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/services/AuthenticationService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/libraries/Gradle__info_cukes_cucumber_core_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/libraries/Gradle__info_cukes_cucumber_html_0_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/libraries/Gradle__info_cukes_cucumber_java_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/libraries/Gradle__info_cukes_cucumber_junit_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/libraries/Gradle__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/libraries/Gradle__info_cukes_gherkin_2_12_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/modules/HelloCucumber.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/modules/HelloCucumber_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/modules/HelloCucumber_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/bin/ohtu/increasingCounter.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/bin/ohtu/resetingCounter.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/src/main/java/ohtu/Counter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/src/test/java/ohtu/RunCukesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/src/test/java/ohtu/Stepdefs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/src/test/resources/ohtu/increasingCounter.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloCucumber/src/test/resources/ohtu/resetingCounter.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/gradle-app.setting" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_20_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_core_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_html_0_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_java_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_junit_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_gherkin_2_12_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_asm_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_support_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/LoginCucumber.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/LoginCucumber_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/LoginCucumber_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/login.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ohtu/new_user.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/spring-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ohtu/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ohtu/data_access/InMemoryUserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ohtu/data_access/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ohtu/domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ohtu/io/ConsoleIO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ohtu/io/IO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ohtu/io/StubIO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ohtu/services/AuthenticationService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ohtu/RunCukesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ohtu/Stepdefs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/ohtu/login.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/ohtu/new_user.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kurssistatistiikka/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kurssistatistiikka/.idea/modules/Kurssistatistiikka_main.iml" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/.idea/modules/Kurssistatistiikka_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kurssistatistiikka/.idea/modules/Kurssistatistiikka_test.iml" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/.idea/modules/Kurssistatistiikka_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kurssistatistiikka/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build.gradle" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kurssistatistiikka/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kurssistatistiikka/gradlew" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/gradlew" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kurssistatistiikka/gradlew.bat" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/gradlew.bat" />
-    </list>
+    <list default="true" id="22b9c841-f360-4037-bc5d-bbfb147fb56e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -1286,12 +1185,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511020153486</updated>
-      <workItem from="1511020155110" duration="4867000" />
+      <workItem from="1511020155110" duration="4950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4867000" />
+    <option name="totallyTimeSpent" value="4950000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

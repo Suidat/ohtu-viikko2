@@ -12,6 +12,7 @@ public class courseInfo {
     private boolean enabled;
     private int[] exercises;
 
+
     public String get_id() {
         return _id;
     }
@@ -67,4 +68,5 @@ public class courseInfo {
     public void setExercises(int[] exercises) {
         this.exercises = exercises;
     }
+
 }

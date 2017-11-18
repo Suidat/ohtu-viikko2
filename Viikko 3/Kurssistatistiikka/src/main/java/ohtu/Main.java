@@ -3,6 +3,8 @@ package ohtu;
 import com.google.gson.Gson;
 import java.io.IOException;
 import org.apache.http.client.fluent.Request;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 
 public class Main {
 
@@ -27,11 +29,16 @@ public class Main {
         Submission[] subs = mapper.fromJson(bodyText, Submission[].class);
         courseInfo info = mapper.fromJson(newbBodyText, courseInfo.class);
 
+        int num = 0;
+        int time = 0;
         System.out.println("Kurssi: "+info.getName()+", "+info.getTerm()+"\n");
         System.out.println("Opiskelijanumero: "+studentNr+"\n");
         for (Submission submission : subs) {
+            submission.setMax(info.getExercises()[submission.getWeek()-1]);
             System.out.println(submission);
+            num += submission.getExercises().length;
+            time += submission.getHours();
         }
-
+        System.out.println("yhteensä: "+num+" tehtävää "+ time+ " tunnissa");
     }
 }

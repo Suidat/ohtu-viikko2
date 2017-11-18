@@ -6,6 +6,7 @@ public class Submission {
     private int week;
     private int hours;
     private int[] exercises;
+    private int max = 0;
 
     public int getHours() {
         return hours;
@@ -31,10 +32,18 @@ public class Submission {
         return week;
     }
 
+    public int getMax() {
+        return max;
+    }
+
+    public void setMax(int max) {
+        this.max = max;
+    }
+
     @Override
     public String toString() {
         return  "Viikko " + week +
-                ":\n\ttehtyjä tehtäviä yhteensä "+ exercises.length + ", aikaa kului " + hours +
-                "tuntia, tehdyt tehtävät: " + Arrays.toString(exercises);
+                ":\n\ttehtyjä tehtäviä yhteensä "+ exercises.length + " (maksimi "+ max +"), aikaa kului " + hours +
+                " tuntia, tehdyt tehtävät: " + Arrays.toString(exercises);
     }
 }

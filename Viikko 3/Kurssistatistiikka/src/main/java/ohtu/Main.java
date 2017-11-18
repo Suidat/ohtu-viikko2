@@ -40,5 +40,14 @@ public class Main {
             time += submission.getHours();
         }
         System.out.println("yhteensä: "+num+" tehtävää "+ time+ " tunnissa");
+
+        url = "https://studies.cs.helsinki.fi/ohtustats/stats";
+        String statsResponse = Request.Get(url).execute().returnContent().asString();
+
+        JsonParser parser = new JsonParser();
+        JsonObject parsittuData = parser.parse(statsResponse).getAsJsonObject();
+        String s = parsittuData.get("1").toString();
+        Stat stat = mapper.fromJson(s, Stat.class);
+        System.out.println("\nkurssilla yhteensä "+stat.getStudents()+" palautusta, palautettuja tehtäviä "+ stat.getExercise_total() +" kpl");
     }
 }

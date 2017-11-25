@@ -1,3 +1,5 @@
 build/
 .gradle
 /Viikko 3/Kurssistatistiikka/JavaApplication2/nbproject/private/
+.idea
+

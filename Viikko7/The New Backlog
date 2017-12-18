@@ -1,0 +1,7 @@
+Artikkeli kuvaa erillaista tapaa järjestää backlog ketterissä menetelmissä. Sen sijaan, että kaikki featuret olisivat ylhäältä alas laskevassa prioriteetissä, tässä järjestetään selkärangan mukaan asiat. Selkäranka on perjaatteessa kaikki asiat, mitä tarvitaan siihen että ohjelma toimii MVP:nä. Tällaista metodia kutsutaan tekstissä "tarina kartaksi.
+
+Selkärangasta laitetaan alaspäin user storyjä alenevassa prioriteetissä niin, että user storyt ovat sen selkärangan osan alla, johon ne liittyvät. Kun katsotaan tätä vasemmalta oikealle (tai oikealta vasemmalle tai ylhäältä alas jne), nähdään tarkasti kaikki mitä tarvitsee tehdä, että ohjelma täyttää minimivaatimukset. Kaikki pienemmän prioriteetin asiat ovat alempana user storynä.
+
+Ideana on, että jos rakennetaan autoa ei mietitä onko tärkeämpää rakentaa ensin moottori vai vaihdelaatikko. Ilman näitä ei ole autoa. Sen sijaan priorisointina on millainen moottori ja montako vaihdetta. 
+
+User storyjä valitessa valitaan ne vasemmalta oikealle ja ylhäältä alas. Näin rakennetaan koko ajan valmiin ohjelman päälle lisää, jotta ohjelma voidaan potenttiaalisesti lähettää koska vain, ilman että siitä puuttuu niin sanotusti moottoria.
